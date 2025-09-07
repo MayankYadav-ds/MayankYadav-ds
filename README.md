@@ -26,7 +26,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/mayank-yadav" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-yadav-DS06" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
