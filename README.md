@@ -1,77 +1,102 @@
-<h1 align="center">Hi 👋, I'm MAYANK YADAV</h1>
-<h3 align="center">"Code, Learn, Build, Repeat" • "Exploring AI, Data Science & Development"</h3>
+<h1 align="center">Hi 👋, I'm Mayank Yadav</h1>
+
+<h3 align="center">
+  Aspiring Data Scientist | Machine Learning | Data Analytics
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankyadav-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Exploring+Data+Science;Learning+Machine+Learning;Building+Real-World+Projects" alt="Typing animation"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayankyadav-ds&theme=dracula&row=1&column=6" alt="Trophies" />
+  <a href="https://github.com/mayankyadav-ds">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/mayank-yadav">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student focused on Data Science.
+- 🔭 Working on Data Science and Machine Learning projects.
+- 🌱 Learning Python, SQL, Machine Learning, and DSA in C++.
+- 🤝 Interested in collaborating on AI and Data Analytics projects.
+- 🎯 Seeking Data Science internship opportunities.
+
+---
+
+## 🛠️ Technologies & Tools
+
 <p align="center">
-- 🔭 Currently working on: <b>MindCare - Mental Health Web App</b><br>
-- 🌱 Learning: <b>Data Science, Machine Learning, React, Next.js, MongoDB</b><br>
-- 👯 Open to collaborating on <b>Data Science Projects</b><br>
-- 🤝 Seeking help with <b>AI-Powered Chatbot</b><br>
-- 📫 Contact: <b>mayankdsms5@gmail.com</b>
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" alt="Python, C++, MySQL, Git, GitHub and VS Code"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌾 Crop Yield Forecasting</h3>
+      <p align="center">
+        Agricultural data analysis and time-series forecasting.
+      </p>
+      <p align="center">
+        <a href="https://github.com/mayankyadav-ds?tab=repositories">
+          <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github" alt="View repositories"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💧 AI Water Leakage Detection</h3>
+      <p align="center">
+        An AI-focused project exploring water leakage detection.
+      </p>
+      <p align="center">
+        <a href="https://github.com/mayankyadav-ds?tab=repositories">
+          <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github" alt="View repositories"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayank-yadav-DS06" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="35" />
-  </a>
-  <a href="mailto:mayankdsms5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  <a href="https://github.com/mayankyadav-ds?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Top Languages & Tools
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayankyadav-ds&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankyadav-ds&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankyadav-ds&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-### 💻 Hacker Level / GitHub Stats
+## 🤝 Connect With Me
+
 <p align="center">
-  <!-- Hacker style GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankyadav-ds&show_icons=true&theme=radical&hide_border=false&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankyadav-ds&theme=radical&hide_border=false" height="160" />
+  <a href="https://github.com/mayankyadav-ds">GitHub</a>
+  •
+  <a href="https://linkedin.com/in/mayank-yadav">LinkedIn</a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankyadav-ds&theme=radical&row=1&column=6" alt="Hacker Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <i>Learning every day. Building with purpose. Growing through projects.</i>
 </p>
